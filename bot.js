@@ -5,7 +5,6 @@ const client = new Discord.Client();
 client.on('ready', () => {
   console.log(`Welcome Bro ${client.user.tag}!`);
 });
-streaming
 
 const prefix = '_'
 
